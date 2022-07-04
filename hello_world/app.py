@@ -35,7 +35,7 @@ def say_hello(event, context):
     return {
         "statusCode": 200,
         "body": json.dumps({
-            "message": "hello world from Ravi June 25, 2022",
+            "message": "hello world from Ravi July 4, 2022",
             # "location": ip.text.replace("\n", "")
         }),
     }
